@@ -38,4 +38,4 @@ while True:
     # Esperar 1 segundo antes de generar el siguiente dato
     time.sleep(1)
     
-    #create a tab kafkafkask
+    #create a tab 
